@@ -7,3 +7,6 @@
 [submodule "mobsfscan"]
 	path = mobsfscan
 	url = https://github.com/JapneetRajputDeepCytes/mobsfscan.git
+[submodule "FALCONSTRIKE"]
+	path = FALCONSTRIKE
+	url = https://github.com/JapneetRajputDeepCytes/FALCONSTRIKE.git
