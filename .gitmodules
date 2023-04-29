@@ -1,0 +1,9 @@
+[submodule "qark"]
+	path = qark
+	url = https://github.com/JapneetRajputDeepCytes/qark.git
+[submodule "Mobile-Security-Framework-MobSF"]
+	path = Mobile-Security-Framework-MobSF
+	url = https://github.com/JapneetRajputDeepCytes/Mobile-Security-Framework-MobSF.git
+[submodule "mobsfscan"]
+	path = mobsfscan
+	url = https://github.com/JapneetRajputDeepCytes/mobsfscan.git
